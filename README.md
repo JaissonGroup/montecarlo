@@ -1,8 +1,14 @@
 # Agriculture Yield Prediction with Monte Carlo Simulation
 
+### Slides: https://www.canva.com/design/DAG5k6aMT70/CAxbkd1Bs0HTHrE7OCp-Rg/view?utm_content=DAG5k6aMT70&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hacae02a9aa
+### Google Colab: https://colab.research.google.com/drive/1t0w1LqTCNdJC5Ua5XJwsdYpqxUUsXwvM?usp=sharing
 
 
-# Resultados
+---
+---
+---
+
+# Resultados 
 
 ## 🌾 Fazenda Maruim_SC
 
